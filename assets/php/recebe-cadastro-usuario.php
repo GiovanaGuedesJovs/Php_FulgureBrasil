@@ -8,5 +8,5 @@
 
    $usuario = new Usuario($nome, $email, $senha);   
    $usuario->cadastrarUsuario();
-
+   
 ?>
